@@ -13,14 +13,14 @@
       "bundleIdentifier": "rto.tracker",
       "developerName": "Artur Vorobiov",
       "subtitle": "Easy way to track you days in and out office to achive certain target.",
-      "iconURL": "",
+      "iconURL": "https://raw.githubusercontent.com/vorobiovart/releases/main/rto-tracker/assets/icon.png",
       "tintColor": "#5CA399",
       "screenshots": ["", ""],
       "versions": [
         {
           "version": "1.0.0",
           "date": "2022-05-12T09:00:00-08:00",
-          "downloadURL": "",
+          "downloadURL": "https://github.com/vorobiovart/releases/raw/main/rto-tracker/v1.0.0/app.ipa",
           "localizedDescription": "v1.0.0"
         }
       ]
