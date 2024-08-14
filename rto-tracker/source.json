@@ -1,0 +1,30 @@
+{
+  "name": "AltStore Source",
+  "subtitle": "",
+  "description": "AltStore Source",
+  "iconURL": "",
+  "headerURL": "",
+  "website": "",
+  "tintColor": "#4185A9",
+  "featuredApps": ["rto.tracker"],
+  "apps": [
+    {
+      "name": "RTO Tracker",
+      "bundleIdentifier": "rto.tracker",
+      "developerName": "Artur Vorobiov",
+      "subtitle": "Easy way to track you days in and out office to achive certain target.",
+      "iconURL": "",
+      "tintColor": "#5CA399",
+      "screenshots": ["", ""],
+      "versions": [
+        {
+          "version": "1.0.0",
+          "date": "2022-05-12T09:00:00-08:00",
+          "downloadURL": "",
+          "localizedDescription": "v1.0.0"
+        }
+      ]
+    }
+  ],
+  "news": []
+}
